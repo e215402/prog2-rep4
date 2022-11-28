@@ -6,6 +6,7 @@ public class Warrior extends Hero{
         super(name, hitPoint, attack);
     }
     
+    
     public void attackWithWeponSkill(LivingThing opponent){
         if (this.dead == false){
             int damage = (int)(attack * 1.5);
