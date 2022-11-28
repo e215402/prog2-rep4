@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jp.ac.uryukyu.ie.e215402.EnemyTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-11-08T00:55:04" hostname="e215402binoMacBook-Pro.local" time="0.011">
+  <properties/>
+  <testcase name="attackTest()" classname="jp.ac.uryukyu.ie.e215402.EnemyTest" time="0.01"/>
+  <testcase name="appHasAGreeting()" classname="jp.ac.uryukyu.ie.e215402.EnemyTest" time="0.001"/>
+  <system-out><![CDATA[デモ勇者のHPは100。攻撃力は100です。
+スライムもどきのHPは10。攻撃力は100です。
+デモ勇者の攻撃！スライムもどきに85のダメージを与えた！！
+モンスタースライムもどきは倒れた。
+デモ勇者の攻撃！スライムもどきに67のダメージを与えた！！
+モンスタースライムもどきは倒れた。
+デモ勇者の攻撃！スライムもどきに64のダメージを与えた！！
+モンスタースライムもどきは倒れた。
+デモ勇者の攻撃！スライムもどきに23のダメージを与えた！！
+モンスタースライムもどきは倒れた。
+デモ勇者の攻撃！スライムもどきに32のダメージを与えた！！
+モンスタースライムもどきは倒れた。
+デモ勇者の攻撃！スライムもどきに57のダメージを与えた！！
+モンスタースライムもどきは倒れた。
+デモ勇者の攻撃！スライムもどきに14のダメージを与えた！！
+モンスタースライムもどきは倒れた。
+デモ勇者の攻撃！スライムもどきに35のダメージを与えた！！
+モンスタースライムもどきは倒れた。
+デモ勇者の攻撃！スライムもどきに28のダメージを与えた！！
+モンスタースライムもどきは倒れた。
+デモ勇者の攻撃！スライムもどきに68のダメージを与えた！！
+モンスタースライムもどきは倒れた。
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
